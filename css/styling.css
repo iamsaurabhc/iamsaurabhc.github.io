@@ -56,7 +56,6 @@ body {
   overflow: hidden;
   height: 300px;
   border-radius: 5px;
-  box-shadow: 9px 10px 47px 2px rgba(0, 0, 0, 1.0);
   position: relative;
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);  
